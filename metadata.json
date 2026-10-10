@@ -1,0 +1,8 @@
+{
+  "name": "Remix Pocket Photo Tools",
+  "description": "Your Pocket, Your Photo Studio — photo compressor, image resizer, passport photo maker, format converter, and batch processor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
